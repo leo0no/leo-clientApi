@@ -1,0 +1,4 @@
+com\leoono\api\controller\ClientController.class
+com\leoono\api\repository\ClientRepository.class
+com\leoono\api\ClientApiLeoApplication.class
+com\leoono\api\model\Client.class
